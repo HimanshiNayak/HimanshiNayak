@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - I'm intrested in **Software Development**
 
-- 🌱 I’m currently learning **Python , Html and CSS**
+- 🌱 I’m currently learning ** C, Python , Html and CSS**
 
 - 📫 How to reach me **nayakhimanshi90@gmail.com**
 
