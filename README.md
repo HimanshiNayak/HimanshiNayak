@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - I'm intrested in **Software Development**
 
 - 🌱 I’m currently learning ** C, Javascript , Sql**
+
 -✨The languages known to me are ** Python , Html and CSS**
 
 - 📫 How to reach me **nayakhimanshi90@gmail.com**
