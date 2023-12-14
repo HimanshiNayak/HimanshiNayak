@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Himanshi Nayak</h1>
 <h3 align="center">I am a aspiring software developer from India.</h3>
 
-<p img align="right" alt="Coding" width="400" src="https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshinayak&label=Profile%20views&color=0e75b6&style=flat" alt="himanshinayak" /> </p>
 
 - I'm intrested in **Software Development**
