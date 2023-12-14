@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshinayak&show_icons=true&locale=en&layout=compact" alt="himanshinayak" /></p>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"
+<p><img align ="right" src="https://www.google.com/search?q=animated%20coding%20girl%20gif&tbm=isch&rlz=1C1YTUH_enIN1019IN1019&hl=en&sa=X&ved=0CBwQtI8BKAFqFwoTCOixueDKjoMDFQAAAAAdAAAAABAG&biw=1519&bih=695#imgrc=qQViMd7j3uvKPM"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshinayak&show_icons=true&locale=en" alt="himanshinayak" /></p>
 
 
