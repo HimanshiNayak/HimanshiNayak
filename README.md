@@ -26,7 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshinayak&show_icons=true&locale=en&layout=compact" alt="himanshinayak" /></p>
 
-<p><img align ="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F05%2F93%2F82%2F76%2F1000_F_593827677_uXCPMbS2ztblOlGRIqSklgjElMKFbNuD.jpg&tbnid=RK5H26usn1o2gM&vet=12ahUKEwju3NP0gpKDAxXlT2wGHYwQBE8QMygEegQIARBi..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Flofi-anime-girl-is-programming-at-a-computer-cozy-dramatic-lighting-highly-detailed-incredible-quality-trending-on-artstation-masterpiece-8k-woman-working-on-laptop-wallpaper-generative-ai%2F593827677&docid=SIiX_z-Jn2F-nM&w=1000&h=667&q=coding%20girl%20image&hl=en&ved=2ahUKEwju3NP0gpKDAxXlT2wGHYwQBE8QMygEegQIARBi"/></p>
+![Screenshot 2023-12-15 235154](https://github.com/HimanshiNayak/HimanshiNayak/assets/114794957/837c0de4-06f3-4328-b38e-41fd53de4ca9)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshinayak&show_icons=true&locale=en" alt="himanshinayak" /></p>
 
 
