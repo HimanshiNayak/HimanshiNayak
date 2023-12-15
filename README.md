@@ -1,4 +1,6 @@
-### Hi there 👋
+ Hi there 👋
+![ezgif-1-3c934bc2a6](https://github.com/HimanshiNayak/HimanshiNayak/assets/114794957/f7cafefd-f959-44af-ba3e-a4e66960fd6c)
+
 <h1 align="center">Hi 👋, I'm Himanshi Nayak</h1>
 <h3 align="center">I am a aspiring software developer from India.</h3>
 
@@ -26,6 +28,7 @@
 
 <p><img align ="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F05%2F93%2F82%2F76%2F1000_F_593827677_uXCPMbS2ztblOlGRIqSklgjElMKFbNuD.jpg&tbnid=RK5H26usn1o2gM&vet=12ahUKEwju3NP0gpKDAxXlT2wGHYwQBE8QMygEegQIARBi..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Flofi-anime-girl-is-programming-at-a-computer-cozy-dramatic-lighting-highly-detailed-incredible-quality-trending-on-artstation-masterpiece-8k-woman-working-on-laptop-wallpaper-generative-ai%2F593827677&docid=SIiX_z-Jn2F-nM&w=1000&h=667&q=coding%20girl%20image&hl=en&ved=2ahUKEwju3NP0gpKDAxXlT2wGHYwQBE8QMygEegQIARBi"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshinayak&show_icons=true&locale=en" alt="himanshinayak" /></p>
+
 
 
 
