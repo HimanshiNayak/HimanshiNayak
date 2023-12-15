@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Himanshi Nayak</h1>
 <h3 align="center">I am a aspiring software developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshinayak&label=Profile%20views&color=0e75b6&style=flat" alt="himanshinayak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshinayak&label=Profile%20views&color=0e75b6&style=flat" alt="himanshinayak" /></p>
 
 - I'm intrested in **Software Development**
 
