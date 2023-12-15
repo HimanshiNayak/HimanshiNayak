@@ -1,8 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Himanshi Nayak</h1>
 <h3 align="center">I am a aspiring software developer from India.</h3>
-<img aling="right" alt="coding" width ="400" src= "![image](https://github.com/HimanshiNayak/HimanshiNayak/assets/114794957/f59f0916-f037-415f-af8f-4456bc2bedb3)"
->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshinayak&label=Profile%20views&color=0e75b6&style=flat" alt="himanshinayak" /></p>
 
 - I'm intrested in **Software Development**
@@ -25,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshinayak&show_icons=true&locale=en&layout=compact" alt="himanshinayak" /></p>
 
-<p><img align ="right" src="https://www.google.com/search?q=animated%20coding%20girl%20gif&tbm=isch&rlz=1C1YTUH_enIN1019IN1019&hl=en&sa=X&ved=0CBwQtI8BKAFqFwoTCOixueDKjoMDFQAAAAAdAAAAABAG&biw=1519&bih=695#imgrc=qQViMd7j3uvKPM"/></p>
+<p><img align ="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2Fc7%2Fe726c74ac081eed50feee1433d12c998.gif&tbnid=tkD88475CNPNmM&vet=12ahUKEwjhxqK6gpKDAxV_ZmwGHfy9BZMQMygFegQIARBt..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&docid=6zN6nteKRMUD4M&w=800&h=600&q=coding%20girl%20image%20gif%20&ved=2ahUKEwjhxqK6gpKDAxV_ZmwGHfy9BZMQMygFegQIARBt"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshinayak&show_icons=true&locale=en" alt="himanshinayak" /></p>
 
 
