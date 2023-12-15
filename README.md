@@ -1,7 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Himanshi Nayak</h1>
 <h3 align="center">I am a aspiring software developer from India.</h3>
-<img aling="right" alt="coding" width ="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw1TFzvUg3AumaPYhL7Z1d4q&ust=1702749052164000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiWh6-BkoMDFQAAAAAdAAAAABAI>
+<img aling="right" alt="coding" width ="400" src= "![image](https://github.com/HimanshiNayak/HimanshiNayak/assets/114794957/f59f0916-f037-415f-af8f-4456bc2bedb3)"
+>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshinayak&label=Profile%20views&color=0e75b6&style=flat" alt="himanshinayak" /></p>
 
 - I'm intrested in **Software Development**
