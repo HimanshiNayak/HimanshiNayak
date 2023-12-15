@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshinayak&show_icons=true&locale=en&layout=compact" alt="himanshinayak" /></p>
 
-![Screenshot 2023-12-15 235154](https://github.com/HimanshiNayak/HimanshiNayak/assets/114794957/837c0de4-06f3-4328-b38e-41fd53de4ca9)
+<img aling="right" alt="coding" width ="400" src= "![Screenshot 2023-12-15 235154](https://github.com/HimanshiNayak/HimanshiNayak/assets/114794957/837c0de4-06f3-4328-b38e-41fd53de4ca9)">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshinayak&show_icons=true&locale=en" alt="himanshinayak" /></p>
 
