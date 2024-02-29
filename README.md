@@ -1,4 +1,4 @@
-![ezgif-1-3c934bc2a6](https://github.com/HimanshiNayak/HimanshiNayak/assets/114794957/f7cafefd-f959-44af-ba3e-a4e66960fd6c)
+  ![ezgif-1-3c934bc2a6](https://github.com/HimanshiNayak/HimanshiNayak/assets/114794957/f7cafefd-f959-44af-ba3e-a4e66960fd6c)
 
 <h1 align="center"><b>Hi 👋, I'm Himanshi Nayak</b></h1>
 <h3 align="center">I am a aspiring software developer from India.</h3>
