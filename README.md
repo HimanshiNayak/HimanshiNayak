@@ -1,5 +1,5 @@
- ![ezgif-1-3c934bc2a6](https://github.com/HimanshiNayak/HimanshiNayak/assets/114794957/f7cafefd-f959-44af-ba3e-a4e66960fd6c)
 
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center"><b><pre> Hi 👋
   I'm Himanshi Nayak</pre></b></h1>
 <h3 align="center">I am a aspiring software developer from India.</h3>
